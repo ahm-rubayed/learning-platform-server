@@ -20,7 +20,7 @@ app.get('/courses', (req, res) => {
     res.send(courses)
 })
 
-app.get('/category/:id', (req, res) => {
+app.get('/checkout/:id', (req, res) => {
     const id = req.params.id;
     const course = courses.filter(n => n.courses_id == id);
     console.log(course)
