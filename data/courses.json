@@ -1,0 +1,74 @@
+[
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "courses_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "title": "The Complete 2021 PHP Full Stack Web Developer Bootcamp",
+    "image_url": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "details": "Become a Full Stack Web Developer using Flask, Python, HTML, CSS, and MongoDB! Fully updated for 2022 and beyond."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "courses_id": "02",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "title": "Python Django 4 Masterclass | Build a Real World Project",
+    "image_url": "https://images.unsplash.com/photo-1542744094-3a31f272c490?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "details": "Become an Expert Django Web Developer and Dramatically Increase Your Career Potential"
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "courses_id": "03",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "title": "Ultimate Web Designer & Web Developer Course",
+    "image_url": "https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "details": "The only course you need to become a full-stack web developer. Covers HTML5, CSS3, JS, ES6, Node, APIs, Mobile & more!"
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "courses_id": "04",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "title": "Complete Python Bootcamp From Zero to Hero in Python",
+    "image_url": "https://images.unsplash.com/photo-1502945015378-0e284ca1a5be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHdlYiUyMGRlc2lnbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "details": "Learn Python like a Professional Start from the basics and go all the way to creating your own applications and games."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "courses_id": "05",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "title": "The Complete Node.js Developer Course (3rd Edition)",
+    "image_url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "details": "Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, MongoDB, Web3 and DApps"
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "courses_id": "06",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "title": "The Complete 2022 Web Development Bootcamp",
+    "image_url": "https://images.unsplash.com/photo-1618388810903-840bb0d15ea5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEyfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
+    "details": "Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, MongoDB, Web3 and DApps."
+  }
+]
