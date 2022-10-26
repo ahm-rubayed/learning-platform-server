@@ -20,6 +20,13 @@ app.get('/courses', (req, res) => {
     res.send(courses)
 })
 
+app.get('/category/:id', (req, res) => {
+    const id = req.params.id;
+    const course = courses.filter(n => n.courses_id == id);
+    console.log(course)
+    res.send(course)
+})
+
 app.listen(port, () => {
     console.log("Courseella server is running")
 })
