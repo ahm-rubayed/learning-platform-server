@@ -1,26 +1,26 @@
 [
     {
       "id": "01",
-      "name": "Web development"
+      "name": "PHP Bootcamp"
     },
     {
       "id": "02",
-      "name": "Python coure"
+      "name": "Python Django"
     },
     {
       "id": "03",
-      "name": "MongoDb course"
+      "name": "Web designer"
     },
     {
       "id": "04",
-      "name": "ReactJS course"
+      "name": "Python"
     },
     {
       "id": "05",
-      "name": "Entertainment"
+      "name": "Node js"
     },
     {
       "id": "06",
-      "name": "Culture"
+      "name": "Web development"
     }
   ]
