@@ -1,19 +1,19 @@
 [
     {
       "id": "01",
-      "name": "Breaking News"
+      "name": "Web development"
     },
     {
       "id": "02",
-      "name": "Regular News"
+      "name": "Python coure"
     },
     {
       "id": "03",
-      "name": "International News"
+      "name": "MongoDb course"
     },
     {
       "id": "04",
-      "name": "Sports"
+      "name": "ReactJS course"
     },
     {
       "id": "05",
