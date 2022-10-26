@@ -1,26 +1,26 @@
 [
     {
       "id": "01",
-      "name": "PHP Bootcamp"
+      "name": "Javascript"
     },
     {
       "id": "02",
-      "name": "Python Django"
+      "name": "ReactJs"
     },
     {
       "id": "03",
-      "name": "Web designer"
+      "name": "Web Developer"
     },
     {
       "id": "04",
-      "name": "Python"
+      "name": "Microsoft Excel"
     },
     {
       "id": "05",
-      "name": "Node js"
+      "name": "Python"
     },
     {
       "id": "06",
-      "name": "Web development"
+      "name": "Angular"
     }
   ]
