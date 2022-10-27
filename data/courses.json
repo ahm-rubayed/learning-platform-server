@@ -2,6 +2,7 @@
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
     "courses_id": "01",
+    "price": "29",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "title": "The complete javascript course",
     "image_url": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
@@ -10,6 +11,7 @@
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
     "courses_id": "02",
+    "price": "22",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "title": "React - The Complete Guide (incl Hooks, React Router, Redux)",
     "image_url": "https://images.unsplash.com/photo-1542744094-3a31f272c490?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
@@ -18,6 +20,7 @@
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
     "courses_id": "03",
+    "price": "50",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "title": "The Web Developer Bootcamp 2022",
     "image_url": "https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
@@ -25,11 +28,8 @@
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-    "others_info": {
-      "is_todays_pick": false,
-      "is_trending": true
-    },
     "courses_id": "04",
+    "price": "40",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "title": "Microsoft Excel - Excel from Beginner to Advanced",
     "image_url": "https://images.unsplash.com/photo-1502945015378-0e284ca1a5be?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHdlYiUyMGRlc2lnbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
@@ -37,11 +37,8 @@
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-    "others_info": {
-      "is_todays_pick": false,
-      "is_trending": true
-    },
     "courses_id": "05",
+    "price": "80",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "title": "Python for Data Science and Machine Learning Bootcamp",
     "image_url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
@@ -49,7 +46,8 @@
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-    "courses_id": "06",
+    "courses_id": "26",
+    "price": "234",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "title": "Angular - The Complete Guide (2022 Edition)",
     "image_url": "https://images.unsplash.com/photo-1618388810903-840bb0d15ea5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEyfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
