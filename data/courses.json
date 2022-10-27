@@ -12,7 +12,7 @@
     "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
     "courses_id": "02",
     "price": "22",
-    "rating": { "number": 4.5, "badge": "Excellent" },
+    "rating": { "number": 4.5, "badge": "Best" },
     "title": "React - The Complete Guide (incl Hooks, React Router, Redux)",
     "image_url": "https://images.unsplash.com/photo-1542744094-3a31f272c490?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "details": "Dive in and learn React.js from scratch! Learn Reactjs, Hooks, Redux, React Routing, Animations, Next.js and way more! Build powerful, fast, user-friendly and reactive web apps. Provide amazing user experiences by leveraging the power of JavaScript with ease. Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors you can find in web dev right now. Learn all about React Hooks and React Components"
@@ -21,7 +21,7 @@
     "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
     "courses_id": "03",
     "price": "50",
-    "rating": { "number": 4.5, "badge": "Excellent" },
+    "rating": { "number": 4.5, "badge": "Good" },
     "title": "The Web Developer Bootcamp 2022",
     "image_url": "https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "details": "COMPLETELY REDONE - The only course you need to learn web development - HTML, CSS, JS, Node, and More! The ins and outs of HTML5, CSS3, and Modern JavaScript for 2021. Make REAL web applications using cutting-edge technologies. Create responsive, accessible, and beautiful layouts. Recognize and prevent common security exploits like SQL-Injection & XSS."
@@ -39,7 +39,7 @@
     "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
     "courses_id": "05",
     "price": "80",
-    "rating": { "number": 4.5, "badge": "Excellent" },
+    "rating": { "number": 4.5, "badge": "Splendid" },
     "title": "Python for Data Science and Machine Learning Bootcamp",
     "image_url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "details": "Learn how to use NumPy, Pandas, Seaborn , Matplotlib , Plotly , Scikit-Learn , Machine Learning, Tensorflow , and more! Use Python for Data Science and Machine Learning. Use Python for Data Science and Machine Learning. Implement Machine Learning Algorithms. Learn to use NumPy for Numerical Data. Learn to use Pandas for Data Analysis. Learn to use Matplotlib for Python Plotting. Learn to use Seaborn for statistical plots. Use Plotly for interactive dynamic visualizations."
